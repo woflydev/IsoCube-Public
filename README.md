@@ -1,5 +1,5 @@
 # IsoCube's Public Release Repository.
-Repository for IsoCube's public files and builds, as well as future releases for WebGL, Mac, Windows, and (maybe) Linux.
+Repository for IsoCube's public files and builds, as well as future releases for Mac, Windows, and (maybe) Linux.
 
 ![IsoCubeGameplay1](https://github.com/woflydev/IsoCube-Public/blob/main/IsoCube%20ReadMe%20Files/new%20gameplay%201.PNG?raw=true)
 
@@ -21,6 +21,20 @@ This game will definitely not -
 3) Make you take toilet breaks.
 4) Put you in a rehabilitation center.
 
-Warning: this game may make you blow up your computer. Oh it's fine, just play it and have fun while you're at it!
+Warning: this game may make you blow up your computer. 
+
+...Oh it's fine, just play it and have fun while you're at it!
+
+# To install/play: 
+Simply [UNZIP] the file with your preferred program (File Explorer on Windows) and double click 'IsoCube.exe'.
+
+# Comptible with:
+- Windows 7 (not tested)
+- Windows 8 and 8.1 (why would you be using that) (not tested)
+- Windows 10 (native)
+- Windows 11 (performance optimization is pending)
+- MacOS Sierra or above (not tested)
 
 ![IsoCubeTitleScreen1](https://github.com/woflydev/IsoCube-Public/blob/main/IsoCube%20ReadMe%20Files/title%20screen.PNG?raw=true)
+
+Have fun, bye :)
