@@ -38,7 +38,7 @@ Warning: this game may make you blow up your computer.
 - Simply [UNZIP] the file with your preferred program (File Explorer on Windows).
 - Double click 'IsoCube.exe' on Windows or 'IsoCube.app' on a Mac.
 
-# Comptible with:
+# Compatible with:
 - Windows 7 (not tested)
 - Windows 8 and 8.1 (why would you be using that) (not tested)
 - Windows 10 (native)
