@@ -3,6 +3,13 @@ Repository for IsoCube's public files and builds, as well as future releases for
 
 ![IsoCubeGameplay1](https://github.com/woflydev/IsoCube-Public/blob/main/IsoCube%20ReadMe%20Files/new%20gameplay%201.PNG?raw=true)
 
+# Preview website now available!
+If you're unsure as to whether you want to waste your precious disk space and network on another rubbish game, why don't you try going to https://woflydev.github.io/IsoCube to give the game a try first?
+You can either:
+- Click the link below the 'About' section.
+- Or just click this one: [IsoCube Web Preview](https://woflydev.github.io/IsoCube/).
+
+# If I haven't sold you already...
 Are you a sad person suffering from a slow brain? 
 
 Are you sad?
@@ -26,7 +33,10 @@ Warning: this game may make you blow up your computer.
 ...Oh it's fine, just play it and have fun while you're at it!
 
 # To install/play: 
-Simply [UNZIP] the file with your preferred program (File Explorer on Windows) and double click 'IsoCube.exe'.
+- Head over the the 'Releases' tab and go grab yourself the latest version. 
+- Yes, the latest version is of course advised, but if you want any of the older versions feel free to download them in the main repository. 
+- Simply [UNZIP] the file with your preferred program (File Explorer on Windows).
+- Double click 'IsoCube.exe' on Windows or 'IsoCube.app' on a Mac.
 
 # Comptible with:
 - Windows 7 (not tested)
