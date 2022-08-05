@@ -1,3 +1,6 @@
+# THIS PROJECT IS DEAD.
+I made it with horrific optimization measures and the project is a mess. I've started work on a new procedurally generated single-player exploration game! Check that out on a repository coming soon.
+
 # IsoCube's Public Release Repository.
 Repository for IsoCube's public files and builds, as well as future releases for Mac, Windows, and (maybe) Linux.
 
